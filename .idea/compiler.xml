@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="product-api" />
-        <module name="user-api" />
         <module name="shopping-api" />
+        <module name="user-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="product-api" target="11" />
       <module name="shopping-api" target="11" />
+      <module name="shopping-api (1)" target="11" />
       <module name="user-api" target="11" />
       <module name="User-api" target="1.5" />
     </bytecodeTargetLevel>
