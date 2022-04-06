@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/product-api/product-api.iml" filepath="$PROJECT_DIR$/product-api/product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-api/shopping-api.iml" filepath="$PROJECT_DIR$/shopping-api/shopping-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-api/user-api.iml" />
+    </modules>
+  </component>
+</project>
